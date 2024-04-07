@@ -6,7 +6,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Priyanshuraj21030)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Priyans91079265?label=Follow)](https://twitter.com/intent/follow?screen_name=Priyans91079265)
-[![Linkedin: Yazdan](https://img.shields.io/badge/-Priyanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshu-raj-280ba8220/)](https://www.linkedin.com/in/priyanshu-raj-280ba8220/)
+[![Linkedin: Priyanshu](https://img.shields.io/badge/-Priyanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshu-raj-280ba8220/)](https://www.linkedin.com/in/priyanshu-raj-280ba8220/)
 [![GitHub followers](https://img.shields.io/github/followers/Priyanshuraj21030?label=Follow&style=social)](https://github.com/Priyanshuraj21030)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -44,12 +44,12 @@
 ### Projects
 
 [![](https://img.shields.io/badge/-🧬%20Asquare%20Website-000)](https://github.com/Priyanshuraj21030/Asquares)
-[![](https://img.shields.io/badge/-👔%20Myntra%20Certifyy-000)](https://github.com/Priyanshuraj21030/certificate)
+[![](https://img.shields.io/badge/-👔%20%20Certifyy-000)](https://github.com/Priyanshuraj21030/certificate)
 [![](https://img.shields.io/badge/-☕️%20Health%20Website-000)](https://github.com/Priyanshuraj21030/HealthCheckup)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshuraj21030&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuraj21030&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuraj21030&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php,CMake,java)
 
 
 
