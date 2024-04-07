@@ -48,7 +48,7 @@
 [![](https://img.shields.io/badge/-☕️%20Health%20Website-000)](https://github.com/Priyanshuraj21030/HealthCheckup)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Yazdan's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshuraj21030&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshuraj21030&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshuraj21030&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)
 
 
