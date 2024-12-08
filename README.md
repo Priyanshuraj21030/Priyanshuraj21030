@@ -8,12 +8,17 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Priyans91079265?label=Follow)](https://twitter.com/intent/follow?screen_name=Priyans91079265)
 [![Linkedin: Priyanshu](https://img.shields.io/badge/-Priyanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshu-raj-280ba8220/)](https://www.linkedin.com/in/priyanshu-raj-280ba8220/)
 [![GitHub followers](https://img.shields.io/github/followers/Priyanshuraj21030?label=Follow&style=social)](https://github.com/Priyanshuraj21030)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanshuraj21030@gmail.com)](mailto:priyanshuraj21030@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Priyanshuraj21030/)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Priyanshuraj21030&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 👨‍🏛 I am currently a student of **Vellore Institute Of Technology, Bhopal**.
-- 💻 Major is **Computer Science**.
-- I like to use a variety of useful **computer software**.
+- 👨‍🏛 I am currently a student of Vellore Institute Of Technology, Bhopal.
+- 💻 Major is Computer Science.
+- I like to use a variety of useful computer software.
 - 🌱 I’m currently learning Fullstack Development;
 - 🔥 I really love the thrill of making what I want possible!
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/priyanshu-raj-280ba8220/):)
@@ -45,7 +50,7 @@
 
 [![](https://img.shields.io/badge/-🧬%20Asquare%20Website-000)](https://github.com/Priyanshuraj21030/Asquares)
 [![](https://img.shields.io/badge/-👔%20%20Certifyy-000)](https://github.com/Priyanshuraj21030/certificate)
-[![](https://img.shields.io/badge/-☕️%20Health%20Website-000)](https://github.com/Priyanshuraj21030/HealthCheckup)
+[![](https://img.shields.io/badge/-☕%20Health%20Website-000)](https://github.com/Priyanshuraj21030/HealthCheckup)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshuraj21030&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
@@ -55,5 +60,5 @@
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
-<p align="center"> **If you like this readme file, please give me star! 🌟**</p>
-<p align="center">Made with ❤️ in BHARAT 🇮🇳</p>
+<p align="center"> If you like this readme file, please give me star! 🌟</p>
+<p align="center">Made with ❤ in BHARAT 🇮🇳</p>
