@@ -59,9 +59,9 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
-### Holopin Badges
 
-[![An image of @priyanshuraj21030's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshuraj21030)](https://holopin.io/@priyanshuraj21030)
+### Holopin Badges
+[![An image of @priyanshuraj21030 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@priyanshuraj21030)](https://holopin.io/@priyanshuraj21030)
 
 <p align="center"> If you like this readme file, please give me star! 🌟</p>
 <p align = "center" > Made with 🤍 by Priyanshu </p>
