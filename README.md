@@ -33,7 +33,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Ruby](https://img.shields.io/badge/-AWS-000?&logo=Ruby)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![PhP](https://img.shields.io/badge/-PhP-000?&logo=PhP)
 ![Html](https://img.shields.io/badge/-HTML-000?&logo=Html)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
@@ -48,9 +48,9 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20Asquare%20Website-000)](https://github.com/Priyanshuraj21030/Asquares)
+[![](https://img.shields.io/badge/-🧬%20GreenBin%20Website-000)](https://github.com/Priyanshuraj21030/GreenBin)
 [![](https://img.shields.io/badge/-👔%20%20Certifyy-000)](https://github.com/Priyanshuraj21030/certificate)
-[![](https://img.shields.io/badge/-☕%20Health%20Website-000)](https://github.com/Priyanshuraj21030/HealthCheckup)
+[![](https://img.shields.io/badge/-☕%20Health%20Website-000)](https://github.com/Priyanshuraj21030/Multipred)
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=Priyanshuraj21030&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
@@ -59,6 +59,9 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
+### Holopin Badges
+
+[![An image of @priyanshuraj21030's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshuraj21030)](https://holopin.io/@priyanshuraj21030)
 
 <p align="center"> If you like this readme file, please give me star! 🌟</p>
-<p align="center">Made with ❤ in BHARAT 🇮🇳</p>
+<p align = "center" > Made with 🤍 by Priyanshu </p>
